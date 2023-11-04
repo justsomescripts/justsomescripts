@@ -37,6 +37,10 @@
 [![opencv][opencv-shield]][opencv-url]
 [![pandas][pandas-shield]][pandas-url]
 
+### Personal Public Projects
+
+- 👨‍💻 [**homelab.ansible**](https://github.com/justsomescripts/homelab.ansible) Homelab infrastructure
+
 [github-shield]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [github-url]: https://github.com/justsomescripts
 [devto-shield]: https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white
