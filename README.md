@@ -39,7 +39,7 @@
 
 ### Personal Public Projects
 
-- 👨‍💻 [**homelab.ansible**](https://github.com/justsomescripts/homelab.ansible) Homelab infrastructure
+- 👨‍💻 [**ansible-homelab**](https://github.com/justsomescripts/ansible-homelab) Homelab infrastructure
 
 [github-shield]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [github-url]: https://github.com/justsomescripts
