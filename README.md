@@ -7,6 +7,7 @@
 - 📝 I regularly write articles on [https://dev.to/dgries](https://dev.to/dgries)
 -->
 - 📫 You can reach me on [mail@dgries.de](mailto:mail@dgries.de)
+
 - ⚡ **I use Arch btw**
 
 ### Connect with me
