@@ -3,7 +3,9 @@
 
 
 - 💬 Ask me about **Linux, Systemd, Bash, Ansible/AWX**
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dgries](https://www.linkedin.com/in/dgries)
+<!---
+- 📝 I regularly write articles on [https://dev.to/dgries](https://dev.to/dgries)
+-->
 - 📫 You can reach me on [mail@dgries.de](mailto:mail@dgries.de)
 - ⚡ **I use Arch btw**
 
