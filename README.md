@@ -49,7 +49,7 @@
 [devto-shield]: https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white
 [devto-url]: https://dev.to/justsomescripts
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/dgries
+[linkedin-url]: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dgries
 [c-shield]: https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black
 [c-url]: https://www.open-std.org/jtc1/sc22/wg14/
 [python-shield]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
