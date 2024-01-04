@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm David</h1>
+<h1 align="center">Hi 👋 I'm David</h1>
 <h3 align="center">A DevOps Engineer from Germany</h3>
 
 
-- 💬 Ask me about **Linux, Systemd, Bash, Ansible/AWX**
+- 💡 **Linux, Systemd, Bash, Ansible/AWX**
 
 - 📝 I regularly write articles on [https://dev.to/dgries](https://dev.to/dgries)
 
