@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Engineer from Germany</h3>
 
 
-- 💡 **Linux, Systemd, Bash, Ansible/AWX**
+- 💡 Linux, Systemd, Bash, Ansible/AWX
 
 - 📝 I regularly write articles on [https://dev.to/dgries](https://dev.to/dgries)
 
