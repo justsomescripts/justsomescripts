@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate DevOps Engineer from Germany</h3>
+<h1 align="center">Hi, I'm David</h1>
+<h3 align="center">A DevOps Engineer from Germany</h3>
 
 
 - 💬 Ask me about **Linux, Systemd, Bash, Ansible/AWX**
@@ -8,12 +8,9 @@
 
 - 📫 You can reach me on [mail@dgries.de](mailto:mail@dgries.de)
 
-- ⚡ **I use Arch btw**
-
 ### Connect with me
 
 [![linkedin][linkedin-shield]][linkedin-url]
-[![github][github-shield]][github-url]
 [![devto][devto-shield]][devto-url]
 
 ### Languages and tools
