@@ -39,7 +39,8 @@
 
 ### Personal Public Projects
 
-- 👨‍💻 [**ansible-homelab**](https://github.com/justsomescripts/ansible-homelab) Homelab infrastructure
+- [**ansible-ee-alpine**](https://github.com/justsomescripts/ansible-ee-alpine) Alpine-based Ansible Execution Environment
+- [**ansible-homelab**](https://github.com/justsomescripts/ansible-homelab) Homelab infrastructure
 
 [github-shield]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [github-url]: https://github.com/justsomescripts
