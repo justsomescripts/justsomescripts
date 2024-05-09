@@ -8,4 +8,4 @@
 ### 💻 Public Projects
 
 - [**ansible-ee-alpine**](https://github.com/justsomescripts/ansible-ee-alpine) Alpine-based Ansible Execution Environment
-- [**ansible-homelab**](https://github.com/justsomescripts/ansible-homelab) Homelab infrastructure
+- [**ansible-project-homelab**](https://github.com/justsomescripts/ansible-project-homelab) Homelab infrastructure
